@@ -1,6 +1,6 @@
-package Sample;
+package sandbox;
 
-public class Sample {
+public class Sandbox {
 
 	public static void main(String[] args) {
 
